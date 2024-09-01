@@ -56,7 +56,6 @@ h1 {
     
     .menu-item {
         margin-bottom: 20px;
-        margin: 20px; /* Add margin on all sides for mobile devices */
     }
 
     .menu-item p {
