@@ -110,7 +110,6 @@ h1 {
     }
 }
 
-
 @media (min-width: 768px) {
     .navbar-nav .nav-item {
         display: none;
